@@ -1,0 +1,26 @@
+{
+  "users": {
+    "admin_primary": {
+      "userId": "admin_primary",
+      "email": "admin@example.com",
+      "name": "Platform Admin",
+      "role": "admin",
+      "passwordHash": "",
+      "disabled": false,
+      "createdAt": "2026-09-18T00:00:00.000Z",
+      "lastActiveAt": "2026-09-18T00:00:00.000Z",
+      "status": "ACTIVE"
+    }
+  },
+  "googleConnections": {},
+  "youtubeChannels": {},
+  "automations": {},
+  "driveVideos": {},
+  "aiMetadata": {},
+  "activityLogs": [],
+  "dailyUsage": {},
+  "jobLocks": {},
+  "groqProviders": {},
+  "groqModels": {},
+  "aiRequestMetrics": {}
+}

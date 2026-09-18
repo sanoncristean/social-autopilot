@@ -1,0 +1,6 @@
+{
+  "name": "YouTube AutoPilot",
+  "description": "Production-grade multi-social AI content automation and publishing platform supporting YouTube, Instagram, Facebook, X, TikTok, LinkedIn, Google Drive, direct upload, and AI metadata generation.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
